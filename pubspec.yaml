@@ -81,6 +81,9 @@ flutter:
     - family: grandfa
       fonts:
         - asset: assets/fonts/grandfa.ttf
+    - family: cheolpil
+      fonts:
+        - asset: assets/fonts/cheolpil.ttf
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
